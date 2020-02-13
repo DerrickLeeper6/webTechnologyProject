@@ -1,3 +1,8 @@
+/* There are multiple different button functions to load websites depending on the business. 
+These numerous functions can all be simplifed to just work based upon a class ('.dBus' for example). I now developed by using as little 
+repeating functions as possible
+*/
+
 $(document).ready(function () {
         
         
